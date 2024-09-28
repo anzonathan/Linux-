@@ -4,6 +4,8 @@ Bash Scripts and other useful tools for Linux
 
 ### Dash to dock and switch the app launcher 
 
+Rub this in your terminal
+
 ```bash
 gsettings set org.gnome.shell.extensions.dash-to-dock show-apps-at-top true
 ```
